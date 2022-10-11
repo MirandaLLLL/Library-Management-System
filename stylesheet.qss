@@ -1,0 +1,252 @@
+*
+{
+        font-family:Microsoft Yahei;
+}
+
+.QLineEdit
+{
+        border:1px solid white;
+        border-radius:5px;
+        width:150px;
+        height:30px;
+        background-color:rgba(255,255,255,50%);
+}
+
+.SumW
+{
+        background-image:url(:/LibraryManagementSystem/star8.jpg);
+}
+
+.view
+{
+        border-radius:55px;
+        background-color:rgba(0,0,0,30%);
+}
+.view:hover
+{
+        border-radius:55px;
+        background-color:rgba(0,0,0,35%);
+}
+
+Login
+{
+    border:1px;
+    background-image: url(:/LibraryManagementSystem/star21.jpg);
+}
+
+.Menu
+{
+    border:1px;
+    background-image: url(:/LibraryManagementSystem/star5.jpg);
+}
+
+
+.LoginLabel
+{
+        font-size:20px;
+        color:white;
+}
+
+.RegisterLbl
+{
+        font-size:20px;
+        color:white;
+}
+
+.Slogan
+{
+        font-size:80px;
+        color:white;
+        font-family:Calibri;
+
+}
+
+.logininput
+{
+    font-size:20px;
+        border:1px;
+        border-radius:10px;
+        font-family:Calibri;
+        background-color:rgba(255,255,255,70%);
+}
+
+.logininput:hover
+{
+    font-size:20px;
+        border:2px solid black;
+        border-radius:10px;
+        font-family:Calibri;
+}
+
+
+
+
+
+.MenuBtn
+{
+        font-size:35px;
+        border-radius:10px;
+        background-color:rgba(0,0,0,30%);
+        font-family:Calibri;
+        color:white;
+}
+
+.MenuBtn:hover
+{
+        font-size:30px;
+        border-radius:10px;
+        font-family:Calibri;
+        background-color:qlineargradient(spread:pad, x1:0, x2:0, y1:0, y2:1,
+                                                                                stop : 0 rgba(181,181,181,10%),
+                                                                                stop : 0.495 rgba(130,130,130,100%),
+                                                                                stop : 0.505 rgba(130,130,130,100%),
+                                                                                stop : 1 rgba(181,181,181,10%));
+}
+
+.btn1
+{
+        border-radius:10px;
+        border:2px solid white;
+        font-size:20px;
+        color:white;
+}
+
+.btn1:hover
+{
+        border-radius:5px;
+        color:black;
+        background-color:qlineargradient(spread:pad, x1:0, x2:0, y1:0, y2:1,
+                                                                                stop : 0 rgba(207,207,207,10%),
+                                                                                stop : 0.495 rgba(108,123,139,100%),
+                                                                                stop : 0.505 rgba(108,123,139,100%),
+                                                                                stop : 1 rgba(207,207,207,10%));
+}
+
+
+
+.RegisterBtn
+{
+        font-size:22px;
+
+        border-radius:8px;
+        border:2px solid white;
+        color:white;
+
+
+}
+.RegisterBtn:hover
+{
+        font-size:22px;
+
+        border-radius:8px;
+        background-color:qlineargradient(spread:pad, x1:0, x2:0, y1:0, y2:1,
+                                                                                stop : 0 rgba(181,181,181,10%),
+                                                                                stop : 0.495 rgba(130,130,130,100%),
+                                                                                stop : 0.505 rgba(130,130,130,100%),
+                                                                                stop : 1 rgba(181,181,181,10%));
+}
+
+
+.RegisterPage
+{
+        background-color:black;
+        background-image:url(:/LibraryManagementSystem/star11.jpg);
+}
+
+.QLineEditRegister
+{
+        border:1px;
+        background-color:rgba(255,255,255,70%);
+}
+
+.tableview
+{
+        font-size:20px;
+        background-color:rgba(255,255,255,60%);
+        border-radius:40px;
+        border:2px;
+        gridline-color:blue;
+}
+
+
+
+.SumLabel
+{
+        font-size:20px;
+        color:white;
+        margin-left:60px;
+        height:50px;
+}
+
+
+
+.QHeaderView::section
+{
+        background-color:rgba(255,255,255,0%);
+}
+
+.FunctionBtn
+{
+        font-size:33px;
+        border-radius:8px;
+        background-color:rgba(255,255,255,50%);
+        font-family:Calibri;
+        height:60px;
+        margin-left:20px;
+}
+
+.SelectBtn
+{
+    font-size:20px;
+    border:2px solid white;
+    border-radius:5px;
+    background-color:rgba(255,255,255,70%);
+    font-family:Calibri;
+    height:30px;
+}
+
+.SelectBtn:focus
+{
+        font-size:20px;
+        border:2px solid white;
+        border-radius:5px;
+        background-color:rgba(255,255,255,50%);
+        font-family:Calibri;
+        height:30px;
+        background-color:qlineargradient(spread:pad, x1:0, x2:0, y1:0, y2:1,
+                                                                                stop : 0 rgba(164,211,238,10%),
+                                                                                stop : 0.495 rgba(108,166,205,100%),
+                                                                                stop : 0.505 rgba(108,166,205,100%),
+                                                                                stop : 1 rgba(164,211,238,10%));
+}
+
+.FunctionBtn:hover
+{
+       font-size:28px;
+        border-radius:8px;
+        font-family:Calibri;
+        height:40px;
+        margin-left:25px;
+        background-color:qlineargradient(spread:pad, x1:0, x2:0, y1:0, y2:1,
+                                                                               stop : 0 rgba(164,211,238,10%),
+                                                                               stop : 0.495 rgba(108,166,205,100%),
+                                                                               stop : 0.505 rgba(108,166,205,100%),
+                                                                               stop : 1 rgba(164,211,238,10%));
+}
+
+.TransactionBtn
+{
+        border-radius:8px;
+        background-color:rgba(255,255,255,50%);
+
+}
+.TransactionBtn:focus
+{
+        border-radius:8px;
+        background-color:rgba(255,255,255,50%);
+        background-color:qlineargradient(spread:pad, x1:0, x2:0, y1:0, y2:1,
+                                                                                stop : 0 rgba(249,212,35,90%),
+                                                                                stop : 0.495 rgba(255,78,80,100%),
+                                                                                stop : 0.505 rgba(255,78,80,100%),
+                                                                                stop : 1 rgba(249,212,35,90%));
+}
